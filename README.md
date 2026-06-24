@@ -64,5 +64,3 @@ Machine Learning project focused on detecting fraudulent transactions using clas
 
 
 ⭐ Always learning, building, and improving.
-- ⚡ Fun fact: ...
--->
