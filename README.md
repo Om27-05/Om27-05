@@ -48,6 +48,9 @@ Built classification models to predict flower species based on petal and sepal m
 ### Credit Card Fraud Detection
 Machine Learning project focused on detecting fraudulent transactions using classification algorithms.
 
+### DailyVerse Website
+Developed and deployed an e-commerce website using React and AI-assisted development with Google Antigravity.
+
 
 ## 📈 Currently Working On
 
